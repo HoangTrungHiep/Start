@@ -1,2 +1,1 @@
-# Start
-Begin study C
+
